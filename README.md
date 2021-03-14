@@ -3,6 +3,7 @@ Hey, I'm Ethius, a self taught java developer. I think putting pronouns here is 
 
 ### Current Project
 * Quantum: Private custom base 1.16 fabric client.
+* SalHackSkid: Salhack skid for highways, somehow got picked up by IIS or something it wasn't even designed for 2b2t but it also used to be called clean miner and somehow I still have the jar from when it _was_ called clean miner
 
 ### Software
 * IDE: IntelliJ IDEA.
