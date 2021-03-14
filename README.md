@@ -1,5 +1,5 @@
 ### About
-Hey, I'm Ethius a self taught java developer. I think putting pronouns here is cringe. I like to work on Minecraft clients and stupid stuff. If you need to contact me hit up my discord Ethius#5699. My main goal for 2021 is to get good.
+Hey, I'm Ethius, a self taught java developer. I think putting pronouns here is cringe. I like to work on Minecraft clients and stupid stuff. If you need to contact me hit up my discord Ethius#5699. My main goal for 2021 is to get good.
 
 ### Current Project
 * Quantum: Private custom base 1.16 fabric client.
