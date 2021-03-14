@@ -1,16 +1,15 @@
-### Hi there 👋
+### About
+Hey, I'm Ethius a self taught java developer. I think putting pronouns here is cringe. I like to work on Minecraft clients and stupid stuff. If you need to contact me hit up my discord Ethius#5699. My main goal for 2021 is to get good.
 
-<!--
-**pleasegivesource/pleasegivesource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Project
+* Quantum: Private custom base 1.16 fabric client.
 
-Here are some ideas to get you started:
+### Software
+* IDE: IntelliJ IDEA.
+* OS: Windows 10/7/XP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pleasegivesource&count_private=true&show_icons=true&hide=issues&theme=material-palenight)
+
+[![discord](https://img.shields.io/badge/Discord-h8EQyuYTK7-9080c2)](https://discord.gg/h8EQyuYTK7)
+![](https://komarev.com/ghpvc/?username=pleasegivesource&color=9080c2)
