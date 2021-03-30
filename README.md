@@ -1,12 +1,12 @@
 ### About
 Hey, I'm Ethius, a self taught java developer. I think putting pronouns here is cringe. I like to work on Minecraft clients and stupid stuff. If you need to contact me hit up my discord Ethius#5699. My main goal for 2021 is to get good.
 
-### Current Project
+### Current Projects
 * Quantum: Private custom base 1.16 fabric client.
 * SalHackSkid: Salhack skid for highways, somehow got picked up by IIS or something it wasn't even designed for 2b2t but it also used to be called clean miner and somehow I still have the jar from when it _was_ called clean miner idk what i'm even typing at this point.
 
 ### Software
-* IDE: IntelliJ IDEA.
+* IDE: IntelliJ IDEA Community.
 * OS: Windows 10/7/XP.
 
 ### Stats
